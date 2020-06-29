@@ -28,9 +28,9 @@
 
 源数据由腾讯官方提供，备份数据以及word2vec训练结果可通过如下渠道获得，下载后解压至对应目录即可
 
-[百度网盘资源链接-tecent_ad2020](https://pan.baidu.com/s/13Nu_pnza07U2gTejGDbY3Q)
+链接：[百度网盘资源链接-tecent_ad2020](https://pan.baidu.com/s/13Nu_pnza07U2gTejGDbY3Q)   
 
-**提取码：**scfi
+提取码：scfi
 
 ## 参考资料
 
